@@ -1,0 +1,32 @@
+Idea
+ Layers
+  Addition 
+   Requires 5 Points
+   Boost Formula [BF] : *(Root((Addition*1.1)+1))
+   Upgrades
+    +1
+     Cost : 1 Addition
+     Boost : *2 Points
+    +2
+     Cost : 3 Addition
+     Boost : *2 Points
+   Cost Scale [CS] : *(1.1^Addition)
+  Multiplication
+   Requires 25 Addition
+   BF : *(Root((Multiplication*1.5)+1))
+   Upgrades
+    *1
+     Cost : 1 Multiplication
+     Boost : *2 Addition
+    *2
+     Cost : 3 Multiplication
+     Boost : *2 Addition
+    *3
+     Cost : 9 Multiplication
+     Boost : *2.5 Addition
+    +3
+     Cost : 27 Multiplication
+     Boost : *25 Points
+   CS : *(1.05^Multiplication)
+  Exponentiation
+   Requires : 125 Multiplication
