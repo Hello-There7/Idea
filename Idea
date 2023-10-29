@@ -30,3 +30,40 @@ Idea
    CS : *(1.05^Multiplication)
   Exponentiation
    Requires : 125 Multiplication
+   BF : *(2^Exponentiation)
+   Upgrades
+    ^1
+     Cost : 1 Exponentiation
+     Boost : *2 Multiplication
+    ^2
+     Cost : 3 Exponentiation
+     Boost : *3 Multiplication
+    ^3
+     Cost : 9 Exponentiation
+     Boost : *5 Multiplication
+    ^4
+     Cost : 27 Exponentiation
+     Boost : *7 Multiplication
+    *4
+     Cost : 81 Exponentiation
+     Boost : *10 Addition
+    +4
+     Cost : 243 Exponentiation
+     Boost : *10,000 Points
+   CS : *(1.01^Exponentiation)
+ Settings
+  Saving
+   Save
+   Load Save #
+   Export
+   Import
+   Reset
+  Visual
+   Theme
+    Light
+    Dark
+    Custom
+    Inverted
+    |add your own :D|
+   Font
+    |add your own :D|
