@@ -1,3 +1,3 @@
 # Idea
 read the file
-credit if you use
+,credit if you use
