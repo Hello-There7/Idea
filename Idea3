@@ -1,0 +1,14 @@
+ColorFinity
+    Layer 1: Photons
+        Resource: Light
+        Upgrades
+            1: Laser
+                Doubles Light gain
+                Costs 5 Light
+            2: Mirror
+                Doubles Light gain again
+                Costs 15 Light
+            3: 299,792,458
+                Quadruples Light gain
+                Costs 75 Light
+    Layer 2: 
