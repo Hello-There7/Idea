@@ -1,4 +1,4 @@
-/not-named/
+Hyperoperation Game
  Layers
   Addition 
    Requires 5 Points
@@ -11,6 +11,7 @@
      Cost : 3 Addition
      Boost : *2 Points
    Cost Scale [CS] : *(1.1^Addition)
+
   Multiplication
    Requires 25 Addition
    BF : *(Root((Multiplication*1.5)+1))
@@ -28,6 +29,7 @@
      Cost : 27 Multiplication
      Boost : *25 Points
    CS : *(1.05^Multiplication)
+   
   Exponentiation
    Requires : 125 Multiplication
    BF : *(2^Exponentiation)

@@ -1,3 +1,3 @@
 # Ideas
 read the file, credit if you use
-A trilogy of Ideas, Ripe for the picking!
+A vine of ideas, ripe for the picking!

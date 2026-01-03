@@ -1,4 +1,25 @@
-Dice Dimensions
- Layers
-  Pips
-   
+Primordial Powers
+  Depth 0: NUMERALS
+    Milestone 1
+      Requires #10 
+      +1 Speed
+    Milestone 2
+      Requires #100 
+      +1 Speed
+
+  Depth 1: PRIMES
+    (All further depths reset you to 0)
+    Milestone 1
+      Requires Prime #10 (#29) 
+      X2 Speed
+    Milestone 2
+      Requires Prime #100 (#541)
+      X4 Speed
+
+  Depth 2: PRIMES SQUARED
+    Milestone 1
+      Requires Prime^2 #10 (Prime #29) (#109)
+      X3 Speed
+    Milestone 2
+      Requires Prime^2 #100 (Prime #541) (#3911)
+      X9 Speed
